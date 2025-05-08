@@ -1,0 +1,295 @@
+[
+	{
+		"R_Corp": {
+			"Supreme_Executive_Council": {
+				"Konrad_Einchenwald": {
+					"id": "RC-S01",
+					"position": "Supreme Architect (CEO & Master Visionary)"
+				}
+			},
+			"Strategic_Division": {
+				"Magnus_Blackwood": {
+					"id": "RC-SD01",
+					"position": "Commander of the Technological Order (Global Strategic Director)"
+				},
+				"Thorne_Vexington": {
+					"id": "RC-SD02",
+					"position": "Commander of the Technological Order (Global Strategic Director)"
+				},
+				"Lucian_Stormrider": {
+					"id": "RC-SD03",
+					"position": "Lord of Disruptions (Innovation & R&D Director)"
+				},
+				"Seraphina_Dreadmoor": {
+					"id": "RC-SD04",
+					"position": "Lord of Disruptions (Innovation & R&D Director)"
+				},
+				"Isolde_Darkmere": {
+					"id": "RC-SD05",
+					"position": "Arbiter of Protocols (Ethical Technology & Information Control Director)"
+				},
+				"Severian_Nightfall": {
+					"id": "RC-SD06",
+					"position": "Arbiter of Protocols (Ethical Technology & Information Control Director)"
+				}
+			},
+			"Technology_Engineering_Division": {
+				"Viktor_Ironvale": {
+					"id": "RC-TD01",
+					"position": "Forgemaster of Worlds (Advanced Infrastructure Director)"
+				},
+				"Astra_Vexoria": {
+					"id": "RC-TD02",
+					"position": "Forgemaster of Worlds (Advanced Infrastructure Director)"
+				},
+				"Draven_Coldwell": {
+					"id": "RC-TD03",
+					"position": "Architect of Realities (Simulation & Augmented Reality Director)"
+				},
+				"Dorian_Falkenridge": {
+					"id": "RC-TD04",
+					"position": "Architect of Realities (Simulation & Augmented Reality Director)"
+				},
+				"Alexander_Wraithmore": {
+					"id": "RC-TD05",
+					"position": "Master of the Dark Networks (Cybersecurity & Predictive Analytics Director)"
+				},
+				"Tiberius_Grimshaw": {
+					"id": "RC-TD06",
+					"position": "Master of the Dark Networks (Cybersecurity & Predictive Analytics Director)"
+				}
+			},
+			"Research_Experimentation_Division": {
+				"Gideon_Darkmoor": {
+					"id": "RC-RD01",
+					"position": "Alchemist of the Future (Cognitive Science & Biotechnology Director)"
+				},
+				"Rowena_Shadowmire": {
+					"id": "RC-RD02",
+					"position": "Alchemist of the Future (Cognitive Science & Biotechnology Director)"
+				},
+				"Dorian_Falkenridge": {
+					"id": "RC-RD03",
+					"position": "General of the Mechanical Legions (Robotics & Cybernetics Director)"
+				},
+				"Ravenna_Stormhold": {
+					"id": "RC-RD04",
+					"position": "General of the Mechanical Legions (Robotics & Cybernetics Director)"
+				},
+				"Lilith_Blackthorn": {
+					"id": "RC-RD05",
+					"position": "Oracle of Possibilities (Future Simulation Director)"
+				},
+				"Ophelia_Wraithborne": {
+					"id": "RC-RD06",
+					"position": "Oracle of Possibilities (Future Simulation Director)"
+				}
+			},
+			"Elite_Operations_Division": {
+				"Selene_Ironshade": {
+					"id": "RC-EOD01",
+					"position": "Grand Mistress of Dark Projects (Ultra-Secret Operations Director)"
+				},
+				"Isolde_Darkmere": {
+					"id": "RC-EOD02",
+					"position": "Grand Mistress of Dark Projects (Ultra-Secret Operations Director)"
+				},
+				"Valeria_Nightbourne": {
+					"id": "RC-EOD03",
+					"position": "Sovereign of Digital Bloodlines (Blockchain & Digital Economy Director)"
+				},
+				"Vespera_Coldridge": {
+					"id": "RC-EOD04",
+					"position": "Sovereign of Digital Bloodlines (Blockchain & Digital Economy Director)"
+				},
+				"Ravenna_Stormhold": {
+					"id": "RC-EOD05",
+					"position": "Lord of Technological Apocalypse (Weaponry & Defense Technologies Director)"
+				},
+				"Tiberius_Grimshaw": {
+					"id": "RC-EOD06",
+					"position": "Lord of Technological Apocalypse (Weaponry & Defense Technologies Director)"
+				},
+				"Seraphina_Dreadmoor": {
+					"id": "RC-EOD07",
+					"position": "Herald of Singularity (General Artificial Intelligence Director)"
+				},
+				"Magnus_Blackwood": {
+					"id": "RC-EOD08",
+					"position": "Herald of Singularity (General Artificial Intelligence Director)"
+				},
+				"Astra_Vexoria": {
+					"id": "RC-EOD09",
+					"position": "Governor of Algorithms (Optimization & Adaptive Intelligence Director)"
+				},
+				"Alexander_Wraithmore": {
+					"id": "RC-EOD10",
+					"position": "Governor of Algorithms (Optimization & Adaptive Intelligence Director)"
+				},
+				"Vespera_Coldridge": {
+					"id": "RC-EOD11",
+					"position": "Emissary of Hidden Spheres (Alliances & Alternative Technologies Director)"
+				},
+				"Lilith_Blackthorn": {
+					"id": "RC-EOD12",
+					"position": "Emissary of Hidden Spheres (Alliances & Alternative Technologies Director)"
+				},
+				"Ophelia_Wraithborne": {
+					"id": "RC-EOD13",
+					"position": "Guardian of Secrets (Archives & Forbidden Knowledge Director)"
+				},
+				"Severian_Nightfall": {
+					"id": "RC-EOD14",
+					"position": "Guardian of Secrets (Archives & Forbidden Knowledge Director)"
+				}
+			}
+		}
+	},
+	{
+		"R_Corp_Infrastructure": [
+			{
+				"id": "RC-HQ01",
+				"name": "R Prime Complex",
+				"location": "Silicon Valley, San Francisco, USA",
+				"description": "Global headquarters, strategic command and oversight center.",
+				"assigned_personnel": ["Konrad_Einchenwald (Supreme Architech)"]
+			},
+			{
+				"id": "RC-RD02",
+				"name": "The Obsidian Spire",
+				"location": "Adlershof Science City, Berlin, Germany",
+				"description": "Advanced research center for cybernetics and general AI.",
+				"assigned_personnel": [
+					"Seraphina_Dreadmoor (Herald of Singularity)",
+					"Magnus_Blackwood (Herald of Singularity)"
+				]
+			},
+			{
+				"id": "RC-RB03",
+				"name": "Black Horizon Citadel",
+				"location": "Odaiba, Tokyo, Japan",
+				"description": "Innovation lab for robotics and nanotechnology.",
+				"assigned_personnel": [
+					"Viktor_Ironvale (Forgemaster of Worlds)",
+					"Dorian_Falkenridge (General of the Mechanical Legions)",
+					"Ravenna_Stormhold (General of the Mechanical Legions)"
+				]
+			},
+			{
+				"id": "RC-CY04",
+				"name": "Noctis Core",
+				"location": "Silicon Roundabout, London, United Kingdom",
+				"description": "Headquarters for cybersecurity and clandestine networks.",
+				"assigned_personnel": [
+					"Alexander_Wraithmore (Master of the Dark Networks)",
+					"Tiberius_Grimshaw (Master of the Dark Networks)"
+				]
+			},
+			{
+				"id": "RC-QS05",
+				"name": "Omega Nexus",
+				"location": "Zhangjiang Hi-Tech Park, Shanghai, China",
+				"description": "Supercomputer hub and quantum simulation facility.",
+				"assigned_personnel": [
+					"Lilith_Blackthorn (Oracle of Possibilities)",
+					"Ophelia_Wraithborne (Oracle of Possibilities)"
+				]
+			},
+			{
+				"id": "RC-ST06",
+				"name": "Voidgate Complex",
+				"location": "Dubai Internet City, Dubai, UAE",
+				"description": "Experimental center for stealth technology and advanced defense.",
+				"assigned_personnel": [
+					"Ravenna_Stormhold (Lord of Technological Apocalypse)",
+					"Tiberius_Grimshaw (Lord of Technological Apocalypse)"
+				]
+			},
+			{
+				"id": "RC-DA07",
+				"name": "Echo Vault",
+				"location": "Reykjavík, Iceland",
+				"description": "Secure archive for data and forbidden knowledge.",
+				"assigned_personnel": [
+					"Ophelia_Wraithborne (Guardian of Secrets)",
+					"Severian_Nightfall (Guardian of Secrets)"
+				]
+			},
+			{
+				"id": "RC-AI08",
+				"name": "The Singularity Forge",
+				"location": "Electronic City, Bangalore, India",
+				"description": "Engineering hub for algorithmic development and AI optimization.",
+				"assigned_personnel": [
+					"Astra_Vexoria (Governor of Algorithms)",
+					"Alexander_Wraithmore (Governor of Algorithms)"
+				]
+			},
+			{
+				"id": "RC-FE09",
+				"name": "The Prometheus Reactor",
+				"location": "CERN, Geneva, Switzerland",
+				"description": "Experimental lab for fusion energy and dark matter research.",
+				"assigned_personnel": [
+					"Gideon_Darkmoor (Alchemist of the Future)",
+					"Rowena_Shadowmire (Alchemist of the Future)"
+				]
+			},
+			{
+				"id": "RC-BT10",
+				"name": "The Leviathan Docks",
+				"location": "Fornebu, Oslo, Norway",
+				"description": "Underwater research base for biotechnology and cybernetic marine studies.",
+				"assigned_personnel": [
+					"Valeria_Nightbourne (Sovereign of Digital Bloodlines)",
+					"Vespera_Coldridge (Sovereign of Digital Bloodlines)"
+				]
+			},
+			{
+				"id": "RC-WD11",
+				"name": "The Shadow Crucible",
+				"location": "Skolkovo Innovation Center, Moscow, Russia",
+				"description": "Classified installation for testing advanced technological weaponry.",
+				"assigned_personnel": [
+					"Selene_Ironshade (Grand Mistress of Dark Projects)",
+					"Isolde_Darkmere (Grand Mistress of Dark Projects)"
+				]
+			},
+			{
+				"id": "RC-CR12",
+				"name": "Erebus Outpost",
+				"location": "Antarctica",
+				"description": "Cryotechnology research station and autonomous AI facility.",
+				"assigned_personnel": []
+			},
+			{
+				"id": "RC-EN13",
+				"name": "Helios Ascendant",
+				"location": "Amazon Rainforest, Brazil",
+				"description": "Lab for alternative energy research and natural biotechnologies.",
+				"assigned_personnel": []
+			},
+			{
+				"id": "RC-SG14",
+				"name": "The Phantom Grid",
+				"location": "Classified, Unknown Location",
+				"description": "Global surveillance and threat analysis center.",
+				"assigned_personnel": []
+			},
+			{
+				"id": "RC-LG15",
+				"name": "R Lunar Gateway",
+				"location": "Lunar Orbit, The Moon",
+				"description": "First off-world research station focused on extraterrestrial resource extraction and AI-driven astrophysics.",
+				"assigned_personnel": []
+			},
+			{
+				"id": "RC-ZO16",
+				"name": "R Zenith",
+				"location": "Geostationary Orbit, Earth",
+				"description": "Orbital platform for advanced zero-gravity manufacturing and quantum computing experiments.",
+				"assigned_personnel": []
+			}
+		]
+	}
+]
