@@ -36,6 +36,7 @@ eam/
 ## 🛠️ Technologies Used
 
 ### Backend (`back/`)
+
 - Java 23
 - Spring Boot 3.4.2
 - Spring Data JPA
@@ -43,6 +44,7 @@ eam/
 - Gradle Wrapper (`./gradlew`)
 
 ### Frontend (`front/`)
+
 - Next.js 14 (React + TypeScript)
 - Tailwind CSS
 - Radix UI
@@ -56,7 +58,7 @@ eam/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/eam.git
+git clone https://github.com/Ryan2486/Employer_manager.git
 cd eam
 ```
 
@@ -131,6 +133,7 @@ npm start
 ## 📄 License
 
 This project is **free to use**, either:
+
 - As a learning resource
 - As a base for new projects
 - Or directly in small-scale environments
